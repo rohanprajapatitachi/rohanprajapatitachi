@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rohanprajapatitachi
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning : MERN Stack - Core Java
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking forward to collabrate with the Mern development community to uplift my knowledge and contribute to it
 - 📫 How to reach me : rohanprajapati369@gmail.com
 
 <!---
