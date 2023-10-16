@@ -4,7 +4,7 @@
 - 💞️ I’m looking forward to collabrate with the Mern development community to uplift my knowledge and contribute to it
 - 📫 How to reach me through my mail: rohanprajapati369@gmail.com
 - instagram: rohanprajapatitachi
-- Linkedin: Rohan Prajapati
+- Linkedin: Rohan Prajapati - Full Stack Developer
 
 <!---
 rohanprajapatitachi/rohanprajapatitachi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
