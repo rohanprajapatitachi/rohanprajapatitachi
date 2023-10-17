@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohanprajapatitachi...
 - 👀 I’m interested in Developing web app and creating a product that can  create an impact to the community
-- 🌱 I’m currently learning : MERN Stack - Core Java servlet jsp
+- 🌱 I’m currently learning : MERN Stack - Core Java
 - 💞️ I’m looking forward to collabrate with the Mern development community to uplift my knowledge and contribute to it
 - 📫 How to reach me through my mail: rohanprajapati369@gmail.com
 - instagram: rohanprajapatitachi
