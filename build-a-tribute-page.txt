@@ -1,0 +1,45 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Tribute Page</title>
+</head>
+<body>
+<main id="main">
+    <h1 id="title">Dr. Norman Borlaug</h1>
+    <div id="img-div">
+        <img id="image" src="dr-norman-borlaug.jpg" alt="Dr. Norman Borlaug">
+        <figcaption id="img-caption">Dr. Norman Borlaug in the field.</figcaption>
+    </div>
+    <p id="tribute-info">
+        Dr. Norman Borlaug was a renowned scientist and humanitarian known for his contributions to agriculture...
+    </p>
+    <a id="tribute-link" href="https://en.wikipedia.org/wiki/Norman_Borlaug" target="_blank">Learn more</a>
+    <!-- Rest of the content goes here -->
+</main>
+
+</body>
+</html>
+
+
+** end of undefined **
+
+** start of undefined **
+
+#img-div {
+    text-align: center;
+}
+
+#image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+
+** end of undefined **
+
