@@ -2,7 +2,7 @@
 - 👀 I’m interested in Developing / creating a product that can  create an impact to the community.
 - 🌱 
 - 💞️ I’m looking forward to collabrate with the  developer community to uplift my knowledge and contribute to the community.
-- 📫 How to reach me:" rohanprajapati369@gmail.com "
+- 📫 How to reach me: " rohanprajapati369@gmail.com "
 - instagram: rohanprajapatitachi 
 - Linkedin: Rohan Prajapati 
 
