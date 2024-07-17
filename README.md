@@ -1,5 +1,5 @@
 - 👋 Hi I’m @rohanprajapatitachi
--  software engineer
+-  Junior Software Engineer
 - 📫 How to reach me:  "rohanprajapati369@gmail.com"
 - Linkedin: Rohan Prajapati
 
