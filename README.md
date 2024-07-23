@@ -1,4 +1,4 @@
-- 👋 Hi I’m @rohanprajapatitachi
+- Hi I’m @rohanprajapatitachi
 -  Junior Software Engineer
 - 📫 How to reach me:  "rohanprajapati369@gmail.com"
 - Linkedin: Rohan Prajapati
